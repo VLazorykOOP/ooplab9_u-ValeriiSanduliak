@@ -5,5 +5,5 @@
 #include<deque>
 
 void task2() {
- 
+    
 }
